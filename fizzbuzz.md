@@ -3,7 +3,7 @@ title: FizzBuzz by Example
 ---
 
 
-## What's Fizz Buzz?
+## What is Fizz Buzz?
 
 > Fizz buzz is a group word game for children to teach them about division.
 > Players take turns to count incrementally, replacing any number divisible by three with the word
@@ -50,7 +50,7 @@ Fizz, 94, Buzz, Fizz, 97, 98, Fizz, Buzz
 
 
 
-## Algorithms
+## Algorithms - There's more than one way to do it (TMTOWTDI or TIMTOWTDI)
 
 > Task
 >

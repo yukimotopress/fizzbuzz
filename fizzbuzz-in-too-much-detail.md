@@ -401,7 +401,7 @@ though.
 
 ## Polishing For Distribution
 
-This FizzBuzz implementation is super flexible now &ndash; some might say _too_
+This FizzBuzz implementation is super flexible now - some might say _too_
 flexible. We've got to open source it. This powerful, reusable functionality
 needs to be made available to everyone.
 
